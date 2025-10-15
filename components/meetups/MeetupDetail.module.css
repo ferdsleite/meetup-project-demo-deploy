@@ -1,0 +1,13 @@
+.detail {
+  text-align: center;
+}
+.detail img {
+  width: 100%;
+}
+.detail h1 {
+  text-transform: uppercase;
+}
+.detail address {
+  font-size: 0.8rem;
+  color: #999999;
+}
