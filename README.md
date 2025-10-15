@@ -16,4 +16,4 @@ Steps:
 - [ ] Deploy Project
 
 ## Link to the demo project:
-[Demo Meetup App](https://nextjs-meetup-project-gold.vercel.app/)
+[Demo Meetup App](https://meetup-project-demo-deploy.vercel.app/)
