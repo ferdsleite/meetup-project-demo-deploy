@@ -1,8 +1,10 @@
 node_modules/
 .next/
-
 .DS_Store
 
 # Local Environment Variables
 .env
 .env*.local
+
+# Ignore generated files
+all-files.txt
